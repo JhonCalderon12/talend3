@@ -1,0 +1,2 @@
+este es un ejemplo de Git, para subir y descargar el versionado.
+esta es una nueva linea de texto.
